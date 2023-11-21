@@ -1,0 +1,43 @@
+[
+    {
+      "rating": 4,
+      "providerName": "John Doe",
+      "designation": "Senior Developer,BGF",
+      "profileImageSource": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBEQACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAIDBgcBBP/EADAQAAEDAwICBwgDAAAAAAAAAAECAwQABRESIVGRBhMUMTJBcSMzVWGBkqHRFRYi/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAMBBAUC/8QAKxEAAgIBAQUHBQEAAAAAAAAAAQIAAxEhBBITFDEiMkFRUnGhI0KBkbEV/9oADAMBAAIRAxEAPwDPzHCVYCgqradoZmVfitt0HMeiPq7hTQJVa3EmRCUrwpJ9KnAnHFJ6QlDscpxsLS2UjWB/o4BpT2IDiXaNmudd4DGsOizzUgDqUbbe8bqnxE8/7NrgXDw+RKrFtbmQX5LLee/UsjHKjmcdBE/54bvEQnLj2+Db1S3rlHc6tJOlhwE5xsMZFccd2OgIj+SprTUg+050KvnbLS4qawuVNS+UpLaUpSE4GM/XND3FTgmRRsqsMqss8KS8pYMm2yGUk4GlouDHkdQ2HnSzcD0MtrszL1EiXcoQWoBsqGdlda2M81VO8ZwUSUlcpiI0UypK0qV4fb4H243pXeOQPiN0rGGPzAt4nQJMBxpmSkuDBAKFb78cU1QwPSV7DWV0Mi6I3CDBmqFxdeaaXjC206tJHmfPlmptDkdic7M1Qb6nSbRZr3ZrxDMRmbGnIKSChRwsj5oIBrPcWIMuJs1WVWHCNGf1jo38LY5n91HNN6jJ5Gn0D9TEv5VCkEux23nCrUVuglSjxJz+O6tPhL4EiYXHf7gD7zzRZ/ZXFOIjRlrUvPtWgoJHAA7CpaveGMmCXbhzuj8iOkXN2Qw6yptpKHHS7hDYGCccht3etArUHMhrWYY085A9MeekdoUrS9kHrE7HPGulUKMDpOGYsd4nWEk9Kr2lISLg9sMbnNL5en0iPG17QNN8wNTpXiohFRCKiE5RCf/Z",
+      "reviewTitle": "Exceptional Work and Team Collaboration",
+      "reviewText": "I had the pleasure of working with John on a complex project. His expertise and dedication were evident throughout the entire development process. He consistently delivered high-quality code and actively participated in team discussions. A valuable asset to any project."
+    },
+    {
+      "rating": 5,
+      "providerName": "Jane Smith",
+      "designation": "UX Designer,LUY",
+      "profileImageSource": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAAAQIFBgQH/8QALRAAAgECBAUDAgcAAAAAAAAAAQIDABEEBRIhEyIxUWEGQYFxwQcUMkJSYqH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EABkRAQEBAQEBAAAAAAAAAAAAAAABAjMRA//aAAwDAQACEQMRAD8A8Xiki4kfHjd8OpuY0fSzfJBsfirb1FmsWY4XLhBg1hWLCrC7ltbsyE+/0I+CKp5TEUjEaMrAc5J2Y+KtvUUC5a8GWoqh4oI3mYWIMjqGJBub8pQbG21x1o6pkbQDp/V37DxTgk4MyuqqxXori4P1qUJiCScVGZivJY20nuagmnUS247fy8UcRYgsSdrnoBsKKmXa+xQeLdKKDQZhg0wGS4dMGmHxj8VpZ8akeoINwsY1DcWGom1rt4NU2KxD45pcXi8U8uLke7BwSWFupP28VqvSbSRSxLKEeJxcKTflvves5neWvlmZYrDyDSqSHh/3U7gj4tVu/nJmaiGde2xwxhbFnO3YHdjThVGlCyycNP3OFvp+KcMLyrIylbRrqa5tt4qCKXaw/wB+9VJkwsx0rqF9ja16dI8ME8zHzanQaH04SMUtj711fiAB+cwLW5jAQT721UqK13jVM6Mp7L9aD0bzRRWRclc96KKKD//Z",
+      "reviewTitle": "Innovative Designs and Great Communication",
+      "reviewText": "Working with Jane was a fantastic experience. Her design concepts were innovative and aligned perfectly with our brand image. She maintained open and clear communication, ensuring that all design elements met our requirements. Jane's creativity and professionalism are commendable."
+    },
+    {
+      "rating": 4,
+      "providerName": "Chris Johnson",
+      "designation": "Marketing Specialist,VCE",
+      "profileImageSource": "https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-1/368021306_832499128498967_8396311175292803623_n.jpg?stp=c0.5.32.32a_cp0_dst-jpg_p32x32&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH2iEDLqpN41DDOiyZHHVysicT9Y_khBCGJxP1j-SEEIbkO4lzZU1NAdU3Ox3o0pWxA5PAk1FEp7LSsPIR3fYvy&_nc_ohc=pCNYqm6eEicAX80bp98&_nc_ht=scontent.fdac24-4.fna&oh=00_AfDi8sYejIFCzZ1rY3SIop1QAVpfK6GAQNu6O1IJYJY17g&oe=6557C931",
+      "reviewTitle": "Effective Marketing Strategies",
+      "reviewText": "Chris played a crucial role in boosting our product visibility. His marketing strategies were effective and resulted in a noticeable increase in user engagement. He is a strategic thinker and a pleasure to work with. Looking forward to collaborating on future projects."
+    },
+    {
+      "rating": 3,
+      "providerName": "Emily White",
+      "designation": "Project Manager,HY",
+      "profileImageSource": "https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-1/364766222_105721872618791_1307680847732575848_n.jpg?stp=c0.0.32.32a_cp0_dst-jpg_p32x32&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeExg8HcncIgmdEUqg91SIop71OKML3aUj3vU4owvdpSPeQhpd8zeLWXmRGldz22siq4WoUXTR4Z2Wv3kOyL4M-c&_nc_ohc=NXHqbe9YX1kAX_2PPtu&_nc_oc=AQmtHDbKAyIw0VNg5fuLkXmOKKHwt6EOnKbQnQ_-eyVUu6NE18RBMNRuw-FBXdcgWnI&_nc_ht=scontent.fdac24-3.fna&oh=00_AfD9ctMIoG2Jn-T3gR1FLm3i4FFYyGD6CjwXZToEFLzXEA&oe=6558924B",
+      "reviewTitle": "Dedicated Project Management",
+      "reviewText": "Emily managed our project with dedication and attention to detail. While there were some minor delays, her proactive communication and problem-solving skills helped overcome challenges. Overall, a reliable project manager who ensures tasks are completed efficiently."
+    },
+    {
+      "rating": 4,
+      "providerName": "Alex Turner",
+      "designation": "Customer Support Specialist,FGT",
+      "profileImageSource": "https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-1/363316825_1693304501116537_5233971280416666303_n.jpg?stp=cp0_dst-jpg_p32x32&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFJV2VRpa-pMlC9K_uSPsGPjpTKo4gkW2qOlMqjiCRbagLqIAzRYh6B2c07VYREc2ui35Bjci7FyXDxmKe8Axph&_nc_ohc=MNKwe4bRJTYAX9WUQgf&_nc_ht=scontent.fdac24-2.fna&oh=00_AfB-rxfznt_nLu2_hpa44j8jcxQfzpejBdFaTqTFrkzVWQ&oe=65596A42",
+      "reviewTitle": "Outstanding Customer Service",
+      "reviewText": "Alex provided outstanding customer service and went above and beyond to resolve our issues. Their responsiveness and knowledge are commendable. It's a pleasure interacting with someone who truly cares about customer satisfaction. Highly recommended for customer support."
+    }
+  ]
+  
